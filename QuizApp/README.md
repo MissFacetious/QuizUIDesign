@@ -1,5 +1,6 @@
 # QuizUIDesign
 Design a Quiz App that allows players to create quizzes with words and play quizzes others made.
+Design was done in Sketch, interface eventually implemented in Android's Layout Editor.
 
 <p></p>
 <img src="images/login.png" width="240" height="400">
