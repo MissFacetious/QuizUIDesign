@@ -13,5 +13,8 @@ I do a lot of UI Designing as well, here are some prototype examples!
 <p>Logo design, definately, here is an application that you can code with multiple people, thus the hub around the html brackets.</p>
 <img src="https://github.com/MissFacetious/UIDesign/blob/master/Codehort/icon/codehort-black-yellow.png?raw=true" width="256" height="256">
 
+<p>Redesign something from Apple? I just couldn't help myself when it came to the Camera App. (Click the image for an interactive version)</p>
+<a href="https://missfacetious.github.io/UIDesign/CameraPrototype"><img src="https://missfacetious.github.io/UIDesign/CameraPrototype/PhotoEditor.png width="448" height="967" border="0"></a>
+
 <p>Showing a distributed coding editor with two windows. Join each other and start coding!</p>
 <img src="https://github.com/MissFacetious/UIDesign/blob/master/Codehort/animated/distributed.gif?raw=true" width="400" height="225">
